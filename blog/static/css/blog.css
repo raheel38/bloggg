@@ -1,0 +1,30 @@
+body {
+    background-color: #f8f8f8;
+    font-family: 'Arial', sans-serif;
+}
+
+.page-header {
+    padding: 40px;
+    color: white;
+    text-align: center;
+    padding-left: 20px;
+}
+
+
+.top-menu {
+    float: right;
+    margin-top: -10px;
+    font-size: 20px;
+}
+
+.post {
+    margin-bottom: 40px;
+    padding: 20px;
+    background: white;
+    border: 1px solid #ddd;
+}
+
+.date {
+    color: #888;
+    font-size: 14px;
+}
