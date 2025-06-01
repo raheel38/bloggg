@@ -118,7 +118,7 @@ import os
 STATIC_URL = "static/"
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'blog/static'),  # if you want to keep it inside app
+    os.path.join(BASE_DIR, 'blog/static/css'),  # if you want to keep it inside app
 ]
 
 
